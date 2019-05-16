@@ -10,4 +10,4 @@
 ## 数据
 Node.xlsx用于存放节点信息。
 Edge.xlsx用于存放边信息。
-见excel内。.
+见excel内。
